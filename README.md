@@ -3,7 +3,7 @@ This project focuses on data cleaning and preparation tasks within a product dat
 
 ## Description
 
-A product table holds product_id, product_name, Brand_name, Price, Quantity and Category. It perfoms basic aggregation function, text formatting and contional formatting in Excel.
+A product table holds product_id, product_name, Brand_name, Price, Quantity and Category. It perfoms below function to improve data quality and presentation
 1) Handling missing values
 2) Correcting inconsistent data
 3) Removing duplicates
