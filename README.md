@@ -1,4 +1,4 @@
-# Assignment2_Data exploration in Product Catlog and Inventory Summary
+# Data exploration in Product Catlog and Inventory Summary
 This project focuses on data cleaning and preparation tasks within a product dataset, including handling missing values, correcting inconsistent data, removing duplicates, splitting and merging data, applying number formatting, and using conditional formatting to improve data quality and presentation.
 
 ## Description
